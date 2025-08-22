@@ -3,8 +3,7 @@
 -----------------------------------------
 
 ### Description
-The Python and R repositories contain portfolio material. Everything else is set to private for confidentiallity, making this a rather unexciting GitHub profile.
-Information about me can be found at [julialundstrum.com](https://www.julialundstrum.com/)
+Everything is currently set to private, making this a rather unexciting GitHub profile.
 
 -----------------------------------------
 
